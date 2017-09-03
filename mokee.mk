@@ -1,10 +1,10 @@
 $(call inherit-product, device/samsung/ja3gduosctc/full_ja3gduosctc.mk)
 
 # Inherit some common Lineage stuff.
-$(call inherit-product, vendor/cm/config/common_full_phone.mk)
+$(call inherit-product, vendor/mk/config/common_full_phone.mk)
 
 
-PRODUCT_NAME := lineage_ja3gduosctc
+PRODUCT_NAME := mk_ja3gduosctc
 PRODUCT_DEVICE := ja3gduosctc
 
 PRODUCT_BUILD_PROP_OVERRIDES += \
