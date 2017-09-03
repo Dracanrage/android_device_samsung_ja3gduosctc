@@ -1,1 +1,1 @@
-add_lunch_combo lineage_ja3gduosctc-userdebug
+add_lunch_combo mk_ja3gduosctc-userdebug
