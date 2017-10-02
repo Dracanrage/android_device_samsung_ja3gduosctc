@@ -29,3 +29,4 @@ ro.debug_level=0x4948
 
 # OTA
 ro.ota.manifest=https://raw.githubusercontent.com/Dracanrage/Exynos5410_Mokee_OTA/mkn-mr1/ja3gduosctc.xml
+

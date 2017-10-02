@@ -63,7 +63,3 @@ BOARD_SEPOLICY_DIRS += \
 
 # inherit common board flags
 include device/samsung/exynos5410-common/BoardConfigCommon.mk
-
-# Filesystems
-## (Workaround)Fix for recovery.img too large error when building
-BOARD_RECOVERYIMAGE_PARTITION_SIZE := 16777216
