@@ -2,8 +2,6 @@
 csc/others.xml
 
 # Audio
-lib/hw/audio.a2dp.default.so
-lib/hw/audio.usb.default.so
 lib/hw/audio_policy.universal5410.so
 # renamed beacuse of audio wrapper
 lib/hw/audio.primary.vendor.universal5410.so:lib/hw/audio.primary.universal5410.so
@@ -187,7 +185,6 @@ vendor/firmware/bcm4335A0_V0343.0347.hcd:vendor/firmware/bcm4335B0_V0343.0347.hc
 # GPS
 bin/secgpsd
 lib/hw/gps.exynos5.so
-lib/hw/gps.goldfish.so
 
 # Radio
 CSCVersion.txt
